@@ -18,8 +18,6 @@ class Artist
   end
   
  def add_song_by_name(s_name)
-    @songs << s_name
-    @artist = self 
     
  end
   

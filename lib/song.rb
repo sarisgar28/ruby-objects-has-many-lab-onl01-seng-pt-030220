@@ -19,7 +19,6 @@ class Song
      
   def aritst_name 
     if self.artist 
-     @name == artist
     else 
       nil 
     end
